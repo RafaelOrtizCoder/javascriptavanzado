@@ -1,3 +1,5 @@
 ## Curso JavaScript Avanzado
 
-Introducción al Hola Mundo con JavaScript
+### Documentación de Javascript
+
+Buscar en google **mdn htmlmediaelement**
